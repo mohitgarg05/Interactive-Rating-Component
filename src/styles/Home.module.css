@@ -45,7 +45,7 @@
     border: none;
     background-color: #272e35;
     font-size: 20px;
-    color: #545A64;
+    color: white;
     width: 45px;
     height: 45px;
     border-radius: 50%;
@@ -65,7 +65,7 @@
     height: 40px;
     background-color: #FC7613;
     color: white;
-    font-size: 16px;
+    font-size: 13px;
     letter-spacing: 2px;
     text-align: center;
   }
